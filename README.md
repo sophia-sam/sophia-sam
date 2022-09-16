@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 :flushed:I am presently working on something cool.<br>
-:seedling:I am currently learning on w3 schools.
+:seedling:I am currently learning on w3 schools.<br>
+:smile:I am looking for help on app building.
