@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-:flushed:I am presently working on something cool.
+:flushed:I am presently working on something cool.<br>
 :seedling:I am currently learning on w3 schools.
